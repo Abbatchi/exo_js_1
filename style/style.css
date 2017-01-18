@@ -1,0 +1,13 @@
+body{
+	background-color: yellow;
+	margin: 0px;
+}
+
+
+nav{
+	display: flex;
+	flex-direction: row;
+	height: 54px;
+	width: 100%;
+	background-color: #9d0c26;
+}
